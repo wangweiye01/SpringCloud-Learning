@@ -1,4 +1,4 @@
-#SpringCloud-Learning
+# SpringCloud-Learning
 
 本项目内容为Spring Cloud教程的程序样例。
 
@@ -10,7 +10,7 @@
 - OsChina：http://git.oschina.net/didispace
 
 
-##样例列表
+## 样例列表
 
 ### 《Spring Cloud构建微服务架构》系列博文示例
 
