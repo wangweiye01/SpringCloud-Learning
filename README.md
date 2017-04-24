@@ -9,17 +9,6 @@
 - GitHub：https://github.com/dyc87112/SpringCloud-Learning
 - OsChina：http://git.oschina.net/didispace
 
-如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
-
-如疑问或分享内容，欢迎来[我的知识交流](http://qa.didispace.com/)发帖讨论。
-
-## 我的新书
-
-![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233753_eb31a228_437188.png "在这里输入图片标题")
-
-## 我的公众号
-
-![输入图片说明](http://git.oschina.net/uploads/images/2017/0105/082219_0315cece_437188.jpeg "在这里输入图片标题")
 
 ##样例列表
 
